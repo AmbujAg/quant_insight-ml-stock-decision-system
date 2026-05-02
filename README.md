@@ -34,7 +34,7 @@ ML based stock decision support system with feature engineering, predictive mode
 ## Run Locally
 
 ```bash
-git clone https://github.com/AmbujAg/quantinsight-ml-stock-decision-system.git
+git clone https://github.com/AmbujAg/quant_insight-ml-stock-decision-system.git
 cd quantinsight-ml-stock-decision-system
 pip install -r requirements.txt
 streamlit run app.py
